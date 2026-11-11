@@ -1,0 +1,5 @@
+/build/
+/dist/
+/native-test
+/native-x86-test
+.DS_Store
